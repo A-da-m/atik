@@ -1,6 +1,6 @@
-# DEPRECATED
+# Coming Soon
 
-We won’t provide support, new features and bug fixes, and security updates. 
+Something sweet is coming soon. Get updates at https://points.city/discord
 
 ### Self-Hosting
 
